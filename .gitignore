@@ -16,3 +16,6 @@ a.out
 *.log
 *.tmp
 *.temp
+
+# Pasta com executáveis
+/bin/
